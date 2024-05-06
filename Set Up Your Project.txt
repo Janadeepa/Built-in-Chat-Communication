@@ -1,0 +1,9 @@
+Set Up Your Project:
+  Initialize a new Node.js project, install necessary dependencies, and set up your server.
+
+  bash
+
+    mkdir chat-app
+    cd chat-app
+    npm init -y
+    npm install express socket.io mongoose
